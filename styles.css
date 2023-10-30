@@ -34,6 +34,29 @@ h1 {
     margin-top: 80px;
 }
 
+.contact-section {
+    height: 280px;
+    background-color: rgb(253, 225, 229);
+    padding-top: 20px;
+}
+.contactform {
+    border: 5px;
+    border-style: solid;
+    border-color: rgb(231, 152, 152);
+    width: 400px;
+    margin: auto;
+    padding-bottom: 10px;
+}
+input {
+    height: 20px;
+}
+.submit-button {
+    background-color: rgb(231, 152, 152);
+    color: white;
+    width: 100px;
+    height: 25px;
+}
+
 footer {
     display: flex;
     justify-content: center;
