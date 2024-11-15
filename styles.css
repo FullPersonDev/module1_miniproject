@@ -1,8 +1,6 @@
 body {
     font-family: 'Times New Roman', Times, serif;
     font-size: 20px;
-    text-align: center;
-    padding-bottom: 1000px;
 }
 
 header {
@@ -20,6 +18,9 @@ header {
     border-bottom-style: solid;
     border-bottom-color: blue;
 }
+.centered {
+    text-align: center;
+}
 .home-link {
     margin-right: 20px;
 }
@@ -34,6 +35,11 @@ h1, h2, h3 {
     margin-top: 80px;
 }
 
+#chooseus {
+    width: 50%;
+    text-align: left;
+    margin: auto;
+}
 #contact-section {
     height: 280px;
     background-color: rgb(253, 225, 229);
